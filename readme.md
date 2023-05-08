@@ -5,7 +5,7 @@ Kelas       : TI.20 D.1
 ==========================================================
 
 ## ActivityMain
-
+````
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -22,4 +22,4 @@ Kelas       : TI.20 D.1
         android:layout_height="844dp" />
 
 </RelativeLayout>
-
+````
