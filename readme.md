@@ -3,7 +3,7 @@
 |     TI.20 D.1    | Pemrograman Mobile |
 
 
-## ActivityMain
+## 1. ActivityMain
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -26,7 +26,7 @@
 
 ![img](img/slashscreen.png)
 
-## ActivityLogin
+## 2. ActivityLogin
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -51,7 +51,7 @@
 ![img](img/login.png)
 
 
-## ActivityHome
+## 3. ActivityHome
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
