@@ -23,3 +23,7 @@ Kelas       : TI.20 D.1
 
 </RelativeLayout>
 ````
+### Output
+
+![img](img/slashscreen.png)
+
